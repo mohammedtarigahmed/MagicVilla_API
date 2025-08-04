@@ -10,7 +10,7 @@ A simple ASP.NET Core 7 API with basic CRUD operations.
 ## Setup
 1. Clone repo:
    ```bash
-   git clone https://github.com/yourusername/dotnet7-crud-api.git
+   git clone https://github.com/mohammedtarigahmed/dotnet7-crud-api.git
 
 2. Update database connection in appsettings.json
 3. Run:
